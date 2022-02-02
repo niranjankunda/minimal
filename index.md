@@ -9,7 +9,7 @@
 [Fraud_Detection](./https://github.com/niranjankunda/fraud_detection).
 
 
-![Fraud_detection_icon](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Fraud_detection_icon](/assets/img/fraud_detection.png)
 
 
 ### Personal Details
